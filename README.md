@@ -11,7 +11,7 @@
 * Mermod Elisa
 * Mermoud Noé
 * Oguey Mathieu https://eracom-id491.github.io/Citation_Mathieu/
-* Polo Anaïs
+* Polo Anaïs https://eracom-id491.github.io/citations-Ana-s/
 * Rizzelli Fabio
 * Rocha Daniel
 * Stanley Emma
