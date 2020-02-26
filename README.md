@@ -16,6 +16,6 @@
 * Rocha Daniel
 * Stanley Emma
 * Tschanz William
-* Vasey Jade
+* Vasey Jade https://eracom-id491.github.io/jadourepository/
 * Vekova Lina https://eracom-id491.github.io/citation-Vekova/
 * Vermot Petit-Outhenin Benjamin
