@@ -10,7 +10,7 @@
 * Lê Oscar
 * Mermod Elisa
 * Mermoud Noé
-* Oguey Mathieu
+* Oguey Mathieu https://eracom-id491.github.io/Citation_Mathieu/
 * Polo Anaïs
 * Rizzelli Fabio
 * Rocha Daniel
