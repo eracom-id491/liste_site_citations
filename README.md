@@ -12,7 +12,7 @@
 * Mermoud Noé https://eracom-id491.github.io/Citation-Noe/ (manque redirection)
 * Oguey Mathieu https://eracom-id491.github.io/Citation_Mathieu/
 * Polo Anaïs https://eracom-id491.github.io/citations-Ana-s/ (manque redirection)
-* Rizzelli Fabio
+* Rizzelli Fabio https://eracom-id491.github.io/citation.fabio/ > redirige vers Anaïs
 * Rocha Daniel https://eracom-id491.github.io/Citation-Daniel/
 * Stanley Emma https://eracom-id491.github.io/Emma.s/ (manque redirection)
 * Tschanz William https://eracom-id491.github.io/citation-william/ (manque redirection)
