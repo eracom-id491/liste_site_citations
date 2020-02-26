@@ -17,5 +17,5 @@
 * Stanley Emma
 * Tschanz William
 * Vasey Jade
-* Vekova Lina
+* Vekova Lina https://eracom-id491.github.io/citation-Vekova/
 * Vermot Petit-Outhenin Benjamin
