@@ -18,4 +18,4 @@
 * Tschanz William
 * Vasey Jade https://eracom-id491.github.io/jadourepository/
 * Vekova Lina https://eracom-id491.github.io/citation-Vekova/
-* Vermot Petit-Outhenin Benjamin
+* Vermot Petit-Outhenin Benjamin https://eracom-id491.github.io/citation-Bginja/
