@@ -6,7 +6,7 @@
 * Ginja Bernardo
 * Hall Davide
 * Ihringer Yan
-* Immi Théo
+* Immi Théo https://eracom-id491.github.io/Citation-theo/
 * Lê Oscar
 * Mermod Elisa
 * Mermoud Noé
