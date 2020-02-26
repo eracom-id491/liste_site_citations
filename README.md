@@ -13,7 +13,7 @@
 * Oguey Mathieu https://eracom-id491.github.io/Citation_Mathieu/
 * Polo Anaïs https://eracom-id491.github.io/citations-Ana-s/
 * Rizzelli Fabio
-* Rocha Daniel
+* Rocha Daniel https://eracom-id491.github.io/Citation-Daniel/
 * Stanley Emma
 * Tschanz William
 * Vasey Jade https://eracom-id491.github.io/jadourepository/
