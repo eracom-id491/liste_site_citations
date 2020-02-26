@@ -2,7 +2,7 @@
 
 * Arroyo Gonzalez Nicole
 * Fuchs Valentin
-* Gardaz Audrey Tiasenla
+* Gardaz Kyle
 * Ginja Bernardo
 * Hall Davide
 * Ihringer Yan
